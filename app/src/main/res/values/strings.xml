@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">maisum</string>
+    <string name="info">Informações</string>
+    <string name="annotation">Anotações</string>
+    <string name="bible">Bíblia</string>
+    <string name="music">Hinos</string>
+    <string name="home">Início</string>
+
+    <string name="descricao">A igreja de Cristo no Cajuru é uma congregação fiel e firme na palavra.\n" +
+                "A igreja foi edificada por Cristo no ano de 33 d.C. Seguindo os ensinamentos do " +
+                "Novo Testamento a congregação da igreja de Cristo começou em 1967.</string>
+    <string name="add_annotation">Adicionar Anotação</string>
+    <string name="editAnnotationTitle">Digite o título da anotação</string>
+</resources>
